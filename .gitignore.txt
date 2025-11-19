@@ -1,9 +1,0 @@
-# Ignore output directory and generated files
-cms_hospital_data/
-run_metadata.json
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.venv/
